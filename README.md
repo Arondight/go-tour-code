@@ -9,7 +9,7 @@ Source code of [Go-zh/tour](https://github.com/Go-zh/tour.git).
 ```
 git clone https://github.com/Arondight/go-tour-code.git
 cd ./go-tour-code/
-make
+make -j2
 ```
 
 ## LICENSE
